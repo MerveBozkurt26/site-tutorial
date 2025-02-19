@@ -1,0 +1,33 @@
+body{
+    background:url(res/resim.jpg);
+    
+
+}
+header{
+    background-color: #ffffffaa;
+    padding: 20px 0;
+}
+
+main{
+    background-color: #ffffff;
+    padding: 20px 0;
+    background-color: #dc7be9;
+}
+footer{
+    background-color: #ffffffaa;
+    padding: 20px 0;
+}
+#logo img{
+    width: 75px;
+}
+#main-menu a{
+   color: #8841e6;
+   padding: 1rem ;
+   display: block;
+   font-size: 1.5rem;
+}
+
+#sosyal-menu a{
+   display: block; 
+  padding: 0.5rem;
+}
